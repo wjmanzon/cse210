@@ -89,4 +89,49 @@ if (color != favoriteColor)
 }
 
 // And, Or, and Not Operators
+if (name == "Peter" || name == "James" || name == "John")
+{
+    Console.WriteLine("This is a biblical name.");
+}
 
+if (firstName == "Brigham" && lastName == "Young")
+{
+    Console.WriteLine("Welcome Brother Brigham!");
+}
+
+if (!(name == "Peter" || name == "James" || name == "John"))
+{
+    Console.WriteLine("This is a not one of those three");
+}
+
+// Variables and Types
+string color;
+string firstName;
+string lastName;
+int velocityBeforeImpactWasMade;
+
+// Conversting Types int.Parse()
+string valueInText = "42";
+int number = int.Parse(valueInText);
+
+Console.Write("What is your favorite number? ");
+string userInput = Console.ReadLine();
+int number = int.Parse(userInput);
+
+// Alias command
+string numAsStr = "7";
+int num - int.Parse("numAsStr");
+int num = Int32.Parse(n"umAsStr");
+
+
+// Numbers to Strings
+int number = 42;
+string textVersion = number.ToString();
+
+// Brother Keers example
+Console.WriteLine("Please give me a number:");
+int.guess = int.Parse(Console.Readline()); // One liner code
+
+// This code above is the same with the code below:
+string guess = Console.Readline();
+int guessAsNum = int.Pase(guess);
