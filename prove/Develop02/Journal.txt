@@ -1,0 +1,28 @@
+Date: 1/29/2024 11:54:16 AM
+Prompt: What was the best part of my day?
+Response: Accounting class
+
+Date: 1/29/2024 11:58:15 AM
+Prompt: What was the best part of my day?
+Response: Programmming clas
+
+Date: 1/29/2024 11:58:27 AM
+Prompt: If I had one thing I could do over today, what would it be?
+Response: be nice to my seatmate
+
+Date: 1/29/2024 12:00:00 AM
+Prompt: Prompt: What was the best part of my day?
+Response: Response: Accounting class
+
+Date: 1/29/2024 12:00:00 AM
+Prompt: Prompt: What was the best part of my day?
+Response: Response: Programmming clas
+
+Date: 1/29/2024 12:00:00 AM
+Prompt: Prompt: If I had one thing I could do over today, what would it be?
+Response: Response: be nice to my seatmate
+
+Date: 1/29/2024 12:09:50 PM
+Prompt: If I had one thing I could do over today, what would it be?
+Response: Be nice to my seatmate
+
