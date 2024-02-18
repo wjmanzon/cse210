@@ -1,0 +1,9 @@
+1;Isaiah;40;31;0;They that wait upon the LORD shall renew their strength;They that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint.
+
+2;Jeremiah;29;11;0;For I know the thoughts that I think toward you;For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.
+
+3;Ecclesiastes;3;1;0;To every thing there is a season;To every thing there is a season, and a time to every purpose under the heaven.
+
+4;Exodus;14;14;0;The LORD shall fight for you;The LORD shall fight for you, and ye shall hold your peace.
+
+5;Joshua;1;9;0;Be strong and of a good courage;Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest.
