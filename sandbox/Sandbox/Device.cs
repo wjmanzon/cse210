@@ -12,7 +12,7 @@ class Device
         Name = name;
     }
 
-    public void Toggle()
+    public virtual void Toggle()
     {
         if (IsOn)
         {
