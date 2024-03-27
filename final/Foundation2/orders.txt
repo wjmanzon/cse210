@@ -1,0 +1,9 @@
+John Doe,Widget,001,5.00,2
+Jane Smith,Gadget,002,7.50,3
+Emily Johnson,Widget,001,5.00,4
+Michael Brown,Gadget,002,7.50,1
+John Doe,Tool,003,15.00,5
+Emily Johnson,Appliance,004,200.00,1
+Michael Brown,Book,005,9.99,3
+Jane Smith,Widget,001,5.00,2
+John Doe,Appliance,004,200.00,2
