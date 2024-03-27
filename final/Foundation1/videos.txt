@@ -1,0 +1,5 @@
+How to Program in C#|CoderA|6000
+Understanding Abstraction|EducatorB|3000
+Principles of OOP|InstructorC|4500
+C# for Beginners 2024|MentorD|1200
+What's Encapsulation?|AuthorE|1000
